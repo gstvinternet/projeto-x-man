@@ -4,7 +4,7 @@
     OBJETIVO 1 - quando passar o mouse em cima do personagem na listagem, devemos selecioná-lo
            passo 1 - pegar os personagens no JS pra poder verificar quando o usuário passar o mouse em cima de um deles 
            passo 2 - adicionar a classe selecionado no personagem que o usuário passar o cursor do mouse 
-           passo 3 - verificar se já exista um personagem selecionado, se sim, devemos remover a seleção dele
+           passo 3 - verificar se já exista um personagem selecionado, se sim, deve remover a seleção dele
 */
 //passo 1
 const personagens = document.querySelectorAll('.personagem');
